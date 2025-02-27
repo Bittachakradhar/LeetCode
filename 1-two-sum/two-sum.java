@@ -7,6 +7,6 @@ class Solution {
                 }
             }
         }
-        return new int[]{};
+        return new int[]{0};
     }
 }
